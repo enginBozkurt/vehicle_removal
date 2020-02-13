@@ -17,5 +17,5 @@ First, run `roscore` and setup required `rosparam` values (a list of ros paramet
 Next, simply run `python map_clean.py` to clean the input rosbag files and place them separately in an output directory.
 
 ## TODO
-[] Add `map_clean.py`
-[] Add a gif describing our work
+- Add `map_clean.py`
+- Add a gif describing our work
