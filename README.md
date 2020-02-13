@@ -15,3 +15,7 @@ Therefore, please install ROS can convert your required data to a lidar message 
 ## RUN
 First, run `roscore` and setup required `rosparam` values (a list of ros parameters used are mentioned inside `rosparam_()` function in the `map_clean.py` file).
 Next, simply run `python map_clean.py` to clean the input rosbag files and place them separately in an output directory.
+
+## TODO
+[] Add `map_clean.py`
+[] Add a gif describing our work
